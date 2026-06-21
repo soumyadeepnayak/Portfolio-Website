@@ -12,15 +12,14 @@ export function Extra() {
       <div className="grid md:grid-cols-3 gap-6">
         <div className="reveal md:col-span-2 rounded-3xl border border-white/10 bg-white/[0.04] p-10">
           <p className="text-xs uppercase tracking-[0.3em] text-white/50">
-            Hackathon
+            Recognition
           </p>
           <h3 className="text-display mt-4 text-4xl md:text-5xl text-white">
-            Ranked 9th — COD-A-FESTX 1.0
+            Selected — Top 50 Students for Parliament Visit
           </h3>
           <p className="mt-4 text-white/70 text-lg">
-            Organized by Lovely Professional University. A high-pressure
-            problem-solving and rapid prototyping sprint that pushed
-            architecture instincts, code quality, and team execution.
+            Selected among 100 students for an official visit to the Parliament of India, 
+            recognizing consistent academic performance and extracurricular leadership.
           </p>
         </div>
         <div className="reveal rounded-3xl border border-white/10 bg-white/[0.04] p-10 flex flex-col justify-between">
